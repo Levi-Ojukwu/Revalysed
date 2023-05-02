@@ -1,0 +1,600 @@
+/* **************************
+/* BELLOW 1130px */
+/* ************************** */
+
+@media (max-width: 70em) {
+  .container--2 {
+    padding-left: 5.2rem;
+    padding-right: 5.2rem;
+  }
+
+  .container--3 {
+    padding-left: 4.6rem;
+    padding-right: 4.6rem;
+  }
+
+  .category-heading {
+    padding-bottom: 0;
+    /* letter-spacing: 0rem; */
+    font-size: 1.2rem;
+  }
+
+  /* .closing-para {
+    margin-left: 3.2rem;
+    margin-right: 3.2rem;
+  } */
+
+  .all-category {
+    padding-top: 1.2rem;
+  }
+}
+
+/* **************************
+/* BELLOW 1068px */
+/* ************************** */
+
+@media (max-width: 66em) {
+  .container--2 {
+    padding-left: 3.6rem;
+    padding-right: 5.2rem;
+  }
+
+  .container--3 {
+    padding-left: 4.6rem;
+    padding-right: 4.6rem;
+  }
+}
+
+/* **************************
+/* BELLOW 1030px */
+/* ************************** */
+
+@media (max-width: 64em) {
+  .container--2 {
+    padding-left: 3rem;
+    padding-right: 5.2rem;
+  }
+}
+
+/* **************************
+/* BELLOW 1020px */
+/* ************************** */
+
+@media (max-width: 63em) {
+  .container--2 {
+    padding-left: 5.2rem;
+    padding-right: 8.9rem;
+  }
+
+  .container--3 {
+    padding-left: 4.6rem;
+    padding-right: 4.6rem;
+  }
+
+  .link-heading {
+    font-size: 1rem;
+    /* margin-bottom: 0; */
+  }
+
+  .closing-para {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .review-para {
+    font-size: 0.9rem;
+  }
+
+  .cookies-row {
+    margin-top: 3.2rem;
+  }
+
+  .closing-para {
+    font-size: 0.8rem;
+    padding: 1.6rem 2.4rem;
+    line-height: 1.6;
+    color: #333;
+    font-weight: 600;
+    margin-left: 3.2rem;
+    margin-right: 3.2rem;
+  }
+}
+
+/* **************************
+/* BELLOW 1015px */
+/* ************************** */
+
+@media (max-width: 63.25em) {
+  .container--2 {
+    padding-left: 2.4rem;
+    padding-right: 8.9rem;
+  }
+}
+
+/* **************************
+/* BELLOW 992px */
+/* ************************** */
+
+@media (max-width: 62em) {
+  .navbar {
+    padding: 3.2rem;
+  }
+
+  .container--2 {
+    padding-left: 2.4rem;
+    padding-right: 5.2rem;
+  }
+
+  .container--3 {
+    padding-left: 3.2rem;
+    padding-right: 3.2rem;
+  }
+
+  .all-category {
+    max-width: 99rem;
+    padding: 0 4.6rem;
+    padding-right: 1rem;
+    padding-bottom: 5.2rem;
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .category-text-box {
+    padding: 1.8rem;
+  }
+
+  .caption {
+    font-size: 1.8rem;
+  }
+
+  .form-control {
+    padding: 0.275rem 0.55rem;
+  }
+
+  .search-form {
+    padding: 0.3rem;
+  }
+
+  .btn-primary {
+    padding: 1rem 1.2rem;
+    font-size: 1rem;
+  }
+
+  .category-heading {
+    font-size: 1.2rem;
+    font-weight: 200;
+    padding-top: 0;
+    padding-bottom: 1.6rem;
+    padding-left: 4.8rem;
+  }
+
+  .review-h4 {
+    font-size: 1.6rem;
+    padding-left: 3.6rem;
+    margin-bottom: 0;
+  }
+
+  .review-row {
+    padding: 1.6rem 3.2rem;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .review-row {
+    padding-top: 3.2rem;
+  }
+
+  .review-text-box {
+    font-size: 0.8rem;
+    padding: 1.6rem 1.8rem;
+    padding-left: 1rem;
+  }
+
+  .review-icon {
+    width: 0.8rem;
+    height: 0.8rem;
+  }
+
+  /* .all-review-icon {
+    
+  } */
+
+  .footer-content {
+    font-size: 1rem;
+  }
+
+  .footer-para {
+    font-size: 1rem;
+  }
+
+  .link-heading {
+    font-size: 1rem;
+  }
+}
+
+/* ************************** */
+/* BELLOW 815px */
+/* ************************** */
+
+@media (max-width: 50em) {
+  .caption {
+    font-size: 2.5rem;
+    line-height: 1.2;
+  }
+
+  .text-row-center,
+  .col {
+    /* width: 90%; */
+    padding-left: 1.6rem;
+    padding-right: 1.6rem;
+  }
+
+  .container--2 {
+    padding-left: 1.8rem;
+    padding-right: 8.9rem;
+  }
+}
+
+/* ************************** */
+/* BELLOW 790px */
+/* ************************** */
+
+@media (max-width: 49.375em) {
+  .container--2 {
+    padding-left: 0;
+    padding-right: 9.8rem;
+  }
+}
+
+/* ************************** */
+/* BELLOW 750px */
+/* ************************** */
+
+@media (max-width: 46em) {
+  .container--2 {
+    padding-left: 3.2rem;
+    padding-right: 6.4rem;
+  }
+
+  .container--3 {
+    padding-left: 3.2rem;
+    padding-right: 3.2rem;
+  }
+
+  .caption {
+    font-size: 2.4rem;
+    line-height: 1.2;
+  }
+
+  .search-form {
+    padding: 0.8rem;
+    max-width: 100%;
+  }
+
+  .Button-querry-row {
+    /* grid-template-columns: 1fr 4fr 1fr; */
+    display: flex;
+    flex-direction: column;
+  }
+
+  .btn-primary {
+    padding: 1.2rem 1.4rem;
+    font-size: 1.2rem;
+  }
+
+  .caption-small {
+    font-size: 1.2rem;
+    font-weight: 200;
+    line-height: 1.4;
+  }
+
+  .all-category {
+    grid-template-columns: repeat(2, 1fr);
+    /* padding: 1.8rem 6.8rem; */
+    padding-top: 0;
+    padding-bottom: 4.6rem;
+  }
+
+  .category-heading {
+    margin-left: 2.4rem;
+    padding-left: 2.4rem;
+  }
+
+  .category-tex-box {
+    padding: 2.6rem;
+  }
+
+  .review-h4 {
+    margin-left: 1.2rem;
+    font-size: 1.4rem;
+    margin-bottom: 1.6rem;
+    padding-left: 1.2rem;
+  }
+
+  .review-row {
+    grid-template-columns: repeat(2, 1fr);
+    padding: 0 2.4rem;
+    gap: 1.8rem;
+  }
+
+  .link-heading {
+    font-size: 1rem;
+  }
+
+  .review-text-box {
+    font-size: 1rem;
+  }
+
+  .review-icon {
+    width: 0.7rem;
+  }
+
+  .closing-para {
+    margin: 0 4.6rem;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+    padding: 1rem 1.2rem;
+    padding-bottom: 2.4rem;
+    font-size: 0.8rem;
+  }
+
+  .footer-row {
+    display: flex;
+    flex-direction: column;
+    gap: 3.2rem;
+  }
+
+  .navbar {
+    padding: 2.4rem 0;
+  }
+
+  .navbar-categories {
+    opacity: 0;
+    pointer-events: none;
+    visibility: hidden;
+  }
+  /* .caption1 {
+    text-align: center;
+    font-size: 1.8rem;
+  }
+
+  .caption2 {
+    text-align: center;
+    font-size: 1.6rem;
+  }
+
+  .caption3 {
+    text-align: center;
+    font-size: 1.6rem;
+  } */
+
+  .navbar-icon {
+    width: 1.6rem;
+    height: 1.6rem;
+    display: flex;
+    align-self: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #20c997;
+    padding: 0.4rem;
+    border-radius: 50%;
+  }
+
+  .navbar-btn {
+    background-color: #112a46;
+    border: none;
+    padding: 0.3rem;
+    display: block;
+  }
+
+  .navbar-btn:focus {
+    outline: 0.1rem solid #fff !important;
+    border-radius: 0.8rem;
+    padding: 0.4rem;
+    border: 0.1rem solid #fff !important;
+  }
+}
+
+/* ************************** */
+/* BELLOW 651px */
+/* ************************** */
+
+@media (max-width: 40.6875em) {
+  .container--2 {
+    padding-left: 1.6rem;
+    padding-right: 4.6rem;
+  }
+
+  .container--3 {
+    padding-left: 1.6rem;
+    padding-right: 1.6rem;
+  }
+}
+
+/* ************************** */
+/* BELLOW px */
+/* ************************** */
+
+@media (max-width: 32.6875em) {
+  .container--2 {
+    padding-left: 1.6rem;
+    padding-right: 1rem;
+  }
+}
+
+/* ************************** */
+/* BELLOW 524px */
+/* ************************** */
+
+@media (max-width: 32.75em) {
+  .container--2 {
+    padding-left: 0.8rem;
+    padding-right: 2.4rem;
+  }
+
+  .all-category {
+    padding-left: 1.8rem;
+    padding-right: 0rem;
+  }
+}
+
+/* ************************** */
+/* BELLOW 500px */
+/* ************************** */
+
+@media (max-width: 31em) {
+  .category-heading {
+    margin-left: 0;
+    padding-left: 2.4rem;
+  }
+
+  .container--2 {
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
+  }
+
+  .all-category {
+    padding: 1.8rem 2rem;
+  }
+
+  .review-h4 {
+    margin-left: 0;
+  }
+
+  .review-row {
+    grid-template-columns: 1fr;
+    padding: 0 0.3rem;
+    gap: 1.8rem;
+  }
+
+  .review-text-box {
+    padding: 1.2rem;
+  }
+
+  .closing-para {
+    margin: 0;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+    /* padding: 1rem 3.2rem; */
+    padding-bottom: 2rem;
+    font-size: 0.8rem;
+  }
+}
+
+/* ************************** */
+/* BELLOW 415px */
+/* ************************** */
+
+@media (max-width: 25.9375em) {
+  .container--2 {
+    padding-left: 1.6rem;
+    padding-right: 1.8rem;
+  }
+
+  .category-heading {
+    margin-left: 0;
+    padding-left: 0.6rem;
+  }
+
+  .all-category {
+    padding: 1.8rem 0;
+    padding-top: 0;
+  }
+}
+
+/* ************************** */
+/* BELLOW 395px */
+/* ************************** */
+
+@media (max-width: 24.6875em) {
+  .container--2 {
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+  }
+
+  .all-category {
+    padding: 1.8rem 0;
+    padding-top: 0;
+  }
+
+  .btn-primary {
+    padding: 0.4rem;
+    font-size: 0.8rem;
+  }
+
+  .search-form {
+    padding: 0.4rem;
+  }
+
+  .icon {
+    width: 1.8rem;
+  }
+
+  .navbar-icon {
+    width: 1rem;
+    height: 1rem;
+    color: #fff;
+  }
+
+  .caption {
+    font-size: 1.6rem;
+  }
+
+  .caption-small {
+    font-size: 1rem;
+    margin-bottom: 1.8rem;
+  }
+
+  .icon-navbar {
+    font-size: 1.6rem;
+  }
+
+  .form-control {
+    font-size: 0.8rem;
+  }
+
+  .category-heading {
+    margin-left: 0;
+    padding-left: 0.6rem;
+  }
+
+  .category-tex-box {
+    padding: 1.8rem;
+    font-size: 0.8rem;
+  }
+}
+
+/* ************************** */
+/* BELLOW 327px */
+/* ************************** */
+
+@media (max-width: 20.4375em) {
+  .container--2 {
+    padding-left: 1.8rem;
+    padding-right: 1.8rem;
+  }
+
+  .category-heading {
+    margin-left: 0;
+    padding-left: 0rem;
+  }
+
+  .all-category {
+    padding: 1.8rem 0;
+    padding-top: 0;
+    grid-template-columns: 1fr;
+  }
+
+  .review-text-box {
+    padding: 1rem ;
+  }
+
+  .container--3 {
+    padding: 1.2rem;
+  }
+
+  .review-h4 {
+    margin-left: 0;
+    margin-bottom: 1.2rem;
+    padding-left: 0.8rem;
+  }
+}
